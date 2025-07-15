@@ -1,42 +1,3 @@
-# <p>Let's Practice: Working with array of Objects<p>
-# <p>Interactive Exercise: Working with an Array of Objects<p>
-## <p>Objective<p>
-### <p>In this exercise, you will create a **Student Management System** in Java that:<p>
-#### <p>✅ Stores multiple **Student** objects in an array.<p>
-#### <p>✅ Allows users to **input student details** such as name, roll number, age, and height.<p>
-#### <p>✅ Computes and displays **statistics** about students, including:<p>
-#### <p>**• Average age**<p>
-#### <p>**• Average height**<p>
-#### <p>**• Oldest student**<p>
-#### <p>**• Tallest student**<p>
-### <p>By completing this exercise, you will strengthen your skills in **arrays, object-oriented programming, loops, and user input handling in Java**.<p>
-## <p>Problem Statement<p>
-### <p>Create a Java program that:<p>
-#### <p>1️⃣ **Defines a student class** with attributes: name, roll number, age, and height.<p>
-#### <p>2️⃣ **Prompts the user to enter multiple students' details**.<p>
-#### <p>3️⃣ **Stores these details in an array**.<p>
-#### <p>4️⃣ **Computes and displays various student statistics**.<p>
-## Outputs
-### Student_class
-```
-public class Student {
-    String name;
-    int rollNumber;
-    int age;
-    double height;
-
-public Student(String name, int rollNumber,int age, double height){
-    this.name = name;
-    this.rollNumber = rollNumber;
-    this.age = age;
-    this.height = height;
-
-    }
-}
-
-```
-### Student_Array
-```
 import java.util.Scanner;
 
 public class StudentArray {
@@ -97,7 +58,3 @@ public class StudentArray {
 
     }
 }
-```
-[githublink]()
-
-
