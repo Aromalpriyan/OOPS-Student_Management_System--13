@@ -35,7 +35,7 @@ public Student(String name, int rollNumber,int age, double height){
 }
 
 ```
-### Student_Array
+### StudentArray_Main
 ```
 import java.util.Scanner;
 
@@ -98,6 +98,6 @@ public class StudentArray {
     }
 }
 ```
-[githublink]()
+[githublink](https://github.com/Aromalpriyan/OOPS-Student_Management_System--13)
 
 
